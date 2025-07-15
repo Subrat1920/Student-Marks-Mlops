@@ -6,4 +6,6 @@ numpy
 seaborn
 matplotlib
 dill
+catboost
+xgboost
 -e .

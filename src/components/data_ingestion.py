@@ -7,6 +7,8 @@ from dataclasses import dataclass
 
 from src.components.data_transformation import DataTransformation, DataTransformationConfig
 
+from src.components.model_trainer import ModelTrainer, ModelTrainerConfig
+
 
 @dataclass
 class DataIngestionConfig:
@@ -55,8 +57,12 @@ if __name__=='__main__':
 
     logging.info("\n\nDATA TRANSFORMATION IS INIIALIZING\n\n")
     data_transformation = DataTransformation()
-    data_transformation.initiate_data_transformation(train_data, test_data)
+    train_arr, test_arr,_ = data_transformation.initiate_data_transformation(train_data, test_data)
     logging.info("\n\nDATA TRANSFORMATION COMPLETED\n\n")
 
+    logging.info("\n\nMODEL TRAINER IS INIIALIZING\n\n")
+    model_trainer = ModelTrainer()
+    print(model_trainer.initiate_model_trainer(train_arr, test_arr))
+    logging.info("\n\nMODEL TRAINER COMPLETED\n\n")
 
 

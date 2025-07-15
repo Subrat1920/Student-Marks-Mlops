@@ -5,4 +5,5 @@ pandas
 numpy
 seaborn
 matplotlib
+dill
 -e .

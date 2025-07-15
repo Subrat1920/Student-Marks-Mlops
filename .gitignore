@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 mark
 mark/
+catboost_info
 # C extensions
 *.so
 app-logs/

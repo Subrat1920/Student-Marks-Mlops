@@ -6,7 +6,8 @@ mark
 mark/
 # C extensions
 *.so
-
+app-logs/
+Artifact
 # Distribution / packaging
 .Python
 build/

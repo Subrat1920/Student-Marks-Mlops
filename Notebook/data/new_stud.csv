@@ -1,0 +1,50 @@
+gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score,total_score,average_score
+female,group E,bachelor's degree,standard,none,100,100,100,300,100.0
+female,group E,associate's degree,standard,none,100,100,100,300,100.0
+male,group E,bachelor's degree,standard,completed,100,100,100,300,100.0
+female,group E,bachelor's degree,standard,completed,99,100,100,299,99.7
+female,group D,some high school,standard,completed,97,100,100,297,99.0
+female,group D,some college,standard,none,98,100,99,297,99.0
+female,group C,bachelor's degree,standard,completed,96,100,100,296,98.7
+male,group D,some college,standard,completed,100,97,99,296,98.7
+female,group D,bachelor's degree,free/reduced,completed,93,100,100,293,97.67
+female,group E,master's degree,standard,completed,94,99,100,293,97.7
+male,group E,associate's degree,free/reduced,completed,100,100,93,293,97.67
+female,group D,master's degree,standard,none,92,100,100,292,97.3
+female,group E,bachelor's degree,free/reduced,completed,92,100,100,292,97.33
+female,group C,bachelor's degree,standard,completed,92,100,99,291,97.0
+female,group C,associate's degree,standard,completed,96,96,99,291,97.0
+female,group B,bachelor's degree,standard,none,97,97,96,290,96.7
+female,group A,some high school,standard,completed,92,100,97,289,96.3
+female,group D,bachelor's degree,standard,none,89,100,100,289,96.3
+female,group E,some college,standard,none,100,92,97,289,96.3
+female,group E,associate's degree,standard,completed,93,100,95,288,96.0
+female,group D,high school,standard,completed,88,99,100,287,95.7
+female,group D,master's degree,standard,none,87,100,100,287,95.7
+male,group A,some college,standard,completed,100,96,86,282,94.0
+male,group C,associate's degree,standard,completed,87,100,95,282,94.0
+female,group E,master's degree,standard,completed,88,99,95,282,94.0
+female,group E,high school,standard,none,99,93,90,282,94.0
+male,group C,associate's degree,standard,none,97,93,91,281,93.7
+female,group C,associate's degree,standard,none,91,95,94,280,93.3
+female,group D,master's degree,free/reduced,completed,85,95,100,280,93.33
+male,group A,bachelor's degree,standard,none,91,96,92,279,93.0
+female,group B,master's degree,standard,none,90,95,93,278,92.7
+male,group B,some college,standard,completed,91,96,91,278,92.7
+male,group C,bachelor's degree,standard,completed,96,90,92,278,92.7
+female,group C,some college,standard,completed,88,95,94,277,92.3
+female,group E,associate's degree,standard,completed,95,89,92,276,92.0
+female,group E,associate's degree,standard,none,87,94,95,276,92.0
+male,group A,associate's degree,standard,completed,97,92,86,275,91.7
+female,group B,some college,standard,completed,88,95,92,275,91.7
+male,group C,bachelor's degree,standard,completed,94,90,91,275,91.7
+male,group C,associate's degree,standard,completed,98,87,90,275,91.7
+female,group D,associate's degree,standard,completed,88,92,95,275,91.7
+female,group D,some college,standard,completed,82,97,96,275,91.7
+female,group C,some college,standard,completed,88,93,93,274,91.3
+male,group C,some college,standard,completed,98,86,90,274,91.3
+female,group D,some high school,standard,none,81,97,96,274,91.3
+female,group B,associate's degree,standard,completed,94,87,92,273,91.0
+male,group B,associate's degree,standard,completed,91,89,92,272,90.7
+female,group B,associate's degree,standard,completed,90,90,91,271,90.3
+female,group C,bachelor's degree,standard,none,83,93,95,271,90.3
